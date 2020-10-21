@@ -1,0 +1,6 @@
+# control documentation options
+dartdoc:
+  favicon: 'doc-missile-app.ico'
+
+
+# end of document
